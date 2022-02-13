@@ -1,0 +1,28 @@
+Uri: https://corefarm.app/
+File Name: C:\Downloaded Web Sites\corefarm.app\index.htm
+Content Type: text/html
+
+Uri: https://corefarm.app/img/favicon.png
+File Name: C:\Downloaded Web Sites\corefarm.app\img\favicon.png
+Content Type: image/png
+
+Uri: https://corefarm.app/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\corefarm.app\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://corefarm.app/css/style.css
+File Name: C:\Downloaded Web Sites\corefarm.app\css\style.css
+Content Type: text/css
+
+Uri: https://corefarm.app/files/CoreFarm.exe
+File Name: C:\Downloaded Web Sites\corefarm.app\files\CoreFarm.exe
+Content Type: application/octet-stream
+
+Uri: https://corefarm.app/img/lb2.png
+File Name: C:\Downloaded Web Sites\corefarm.app\img\lb2.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500|Rubik:500,700
+File Name: C:\Downloaded Web Sites\corefarm.app\css.css
+Content Type: text/css
+
